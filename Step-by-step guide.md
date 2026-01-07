@@ -1,4 +1,4 @@
-## Guida passo dopo passo (Download, installazione e utilizzo)
+# Guida passo dopo passo (Download, installazione e utilizzo)
 
 Di seguito spiego **come scaricare, installare e usare** il progetto **passo dopo passo**, con una procedura **step by step** pensata anche per chi non ha mai utilizzato Python o GitHub.  
 L’obiettivo è farti arrivare rapidamente a un sistema funzionante, così da poter inserire i libri e ottenere in automatico il file Excel ordinato.
