@@ -2,7 +2,7 @@
 Library reorganization tool: from random input, create/update an Excel spreadsheet with books grouped by context and sorted by author, year, and volume, ready for printing or consultation.
 
 
-# Biblioteca Excel Manager
+## Biblioteca Excel Manager
 
 Sono **Riva Thomas**, studente di **Ingegneria Informatica** al **Politecnico di Milano**.  
 Ho realizzato questo progetto in **Python** per automatizzare la catalogazione e l’ordinamento di **grandissime quantità di libri** in modo rapido e affidabile.
